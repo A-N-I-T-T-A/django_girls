@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
-CSRF_TRUSTED_ORIGINS = []
+CSRF_TRUSTED_ORIGINS = ['https://djangogirls-gtbrg3fdf8g0debr.centralus-01.azurewebsites.net']
 
 
 # Application definition
